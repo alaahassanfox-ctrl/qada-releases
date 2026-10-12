@@ -1,7 +1,7 @@
 {
-  "build": 28,
+  "build": 29,
   "native": 2,
   "apkBuild": 10,
   "ota": "index.android.bundle.zip",
-  "notes": "• تحسينات في تبويب «الإهداء»."
+  "notes": "• تحرير قائمة الإهداء أصبح أسهل."
 }
